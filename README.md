@@ -8,3 +8,4 @@ https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba
 https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba/42633375#42633375
 
 
+overall I did not have strong understanding of loops/syntax in VBA
